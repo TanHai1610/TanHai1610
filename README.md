@@ -1,7 +1,4 @@
 ### WELCOME TO MY PAGE 👋
-
-<!--
-**TanHai1610/TanHai1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <br>
 My name is Hai Nguyen, I am a student at Hanoi University of Education, majoring in software technology.
 🌱
 ## 📫 How to reach me: 
