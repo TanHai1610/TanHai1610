@@ -5,7 +5,7 @@ My name is Hai Nguyen, I am a student at Hanoi University of Education, majoring
 ## 📫 How to reach me: 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]() 
 
-![Hai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leafclover01&hide=stars,commits,prs,issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
+![Hai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leafclover01&show_icons=true&theme=tokyonight&hide=issues)
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
