@@ -21,7 +21,7 @@ My name is Hai Nguyen, I am a student at Hanoi University of Education, majoring
 
 <a href="https://github.com/leafclover01/Project_nentangphattrienWeb/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1vercel.app/api/pin/?username=leafclover01&repo=Project_nentangphattrienWeb&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leafclover01&repo=Project_nentangphattrienWeb&theme=radical" />
 </a> 
 
 <a href="https://github.com/leafclover01/Scan-QR-code/">
