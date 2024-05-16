@@ -23,7 +23,8 @@ My name is Hai Nguyen, I am a student at Hanoi University of Education, majoring
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leafclover01&repo=Project_nentangphattrienWeb&theme=radical" />
 </a> 
-<a href="https://github.com/uvipen/Deeplab-pytorch/">
+
+<a href="https://github.com/leafclover01/Scan-QR-code/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leafclover01&repo=Scan-QR-code&theme=cobalt" />
 </a>
